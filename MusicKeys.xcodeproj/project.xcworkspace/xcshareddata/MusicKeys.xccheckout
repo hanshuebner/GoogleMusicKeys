@@ -10,29 +10,29 @@
 	<string>MusicKeys</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5FF67045-5115-4872-98F4-376E6107D5C8</key>
-		<string>ssh://github.com/hanshuebner/GoogleMusicKeys.git</string>
+		<key>EE85580A2F3A169D6B5F7C300375FB12269A18DF</key>
+		<string>github.com:hanshuebner/GoogleMusicKeys.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MusicKeys.xcodeproj/project.xcworkspace</string>
+	<string>MusicKeys.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5FF67045-5115-4872-98F4-376E6107D5C8</key>
+		<key>EE85580A2F3A169D6B5F7C300375FB12269A18DF</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/hanshuebner/GoogleMusicKeys.git</string>
+	<string>github.com:hanshuebner/GoogleMusicKeys.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5FF67045-5115-4872-98F4-376E6107D5C8</string>
+	<string>EE85580A2F3A169D6B5F7C300375FB12269A18DF</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5FF67045-5115-4872-98F4-376E6107D5C8</string>
+			<string>EE85580A2F3A169D6B5F7C300375FB12269A18DF</string>
 			<key>IDESourceControlWCCName</key>
 			<string>GoogleMusicKeys</string>
 		</dict>
