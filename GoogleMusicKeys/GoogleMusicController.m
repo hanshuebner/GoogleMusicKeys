@@ -11,9 +11,9 @@
 #import "Safari.h"
 #import "FireFox.h"
 
-#define PLAY_PAUSE_COMMAND @"document.querySelectorAll('button[data-id=\"play-pause\"]')[0].click();"
-#define NEXT_COMMAND @"document.querySelectorAll('button[data-id=\"forward\"]')[0].click();"
-#define PREVIOUS_COMMAND @"document.querySelectorAll('button[data-id=\"rewind\"]')[0].click();"
+#define PLAY_PAUSE_COMMAND @"document.querySelectorAll('sj-icon-button[data-id=\"play-pause\"]')[0].click();"
+#define NEXT_COMMAND @"document.querySelectorAll('sj-icon-button[data-id=\"forward\"]')[0].click();"
+#define PREVIOUS_COMMAND @"document.querySelectorAll('sj-icon-button[data-id=\"rewind\"]')[0].click();"
 #define SHUFFLE_COMMAND @"SJBpost('toggleShuffle');"
 
 
